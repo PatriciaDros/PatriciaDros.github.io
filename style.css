@@ -2,8 +2,7 @@
 *{box-sizing:border-box}html{scroll-behavior:smooth}body{margin:0;background:var(--cream);color:var(--ink);font-family:Arial,Helvetica,sans-serif;line-height:1.65}
 h1,h2,h3,.brand{font-family:Georgia,"Times New Roman",serif;font-weight:400;color:var(--blue)}a{color:inherit}
 .site-nav{padding:22px 5vw;background:rgba(250,248,243,.97);border-bottom:1px solid #e8e3db;display:flex;justify-content:space-between;align-items:center;gap:30px;position:sticky;top:0;z-index:10}
-.brand{font-size:2rem;text-decoration:none}
-.brand-lockup{display:flex;align-items:center;gap:9px;text-decoration:none}.brand-mark{display:block;width:38px;height:28px;object-fit:contain}.brand{font-size:2rem;text-decoration:none}.site-nav>div:first-child{min-width:220px}
+.brand{font-size:2rem;text-decoration:none;letter-spacing:.01em}.site-nav>div:first-child{min-width:220px}
 .tagline{margin:0;font-size:.68rem;letter-spacing:.17em;text-transform:uppercase}
 .nav-links{display:flex;gap:25px;list-style:none;margin:0;padding:0;flex-wrap:wrap}.nav-links a{text-decoration:none}.nav-links a:hover,.active{color:var(--terra)!important}
 .container{max-width:1200px;margin:auto}.hero{min-height:680px;padding:90px 5vw;display:grid;grid-template-columns:1.05fr .95fr;align-items:center;background:linear-gradient(115deg,var(--cream) 0 55%,var(--pale) 55% 100%)}
@@ -29,5 +28,5 @@ section{padding:85px 5vw}.pale{background:var(--pale)}.grid{display:grid;grid-te
 .hobby-card figcaption strong{display:block;font-family:Georgia,"Times New Roman",serif;color:var(--blue);font-size:1.05rem;margin-bottom:4px}
 .hobby-card figcaption span{display:block;color:#6b7280;font-size:.92rem;line-height:1.5}
 footer{padding:45px 5vw;background:var(--ink);color:#fff;display:flex;justify-content:space-between;gap:30px;flex-wrap:wrap}footer .brand{color:#fff}footer p{margin:0;color:var(--pale)}
-@media(max-width:800px){.brand-mark{width:34px;height:25px}.site-nav{align-items:flex-start;flex-direction:column}.hero,.grid{grid-template-columns:1fr}.hero{background:var(--cream);padding-top:55px}.hero-photo{justify-self:start;margin-top:30px}.nav-links{gap:14px}section{padding:60px 6vw}.hobby-grid{grid-template-columns:repeat(2,1fr)}}
+@media(max-width:800px){.site-nav{align-items:flex-start;flex-direction:column}.hero,.grid{grid-template-columns:1fr}.hero{background:var(--cream);padding-top:55px}.hero-photo{justify-self:start;margin-top:30px}.nav-links{gap:14px}section{padding:60px 6vw}.hobby-grid{grid-template-columns:repeat(2,1fr)}}
 @media(max-width:560px){.hobby-grid{grid-template-columns:1fr}}
