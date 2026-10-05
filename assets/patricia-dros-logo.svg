@@ -1,14 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 430" role="img" aria-labelledby="title desc">
-<title id="title">Patricia Dros — Data Analyst</title>
-<desc id="desc">PD monogram with a gold sweeping accent and Patricia Dros Data Analyst wordmark.</desc>
-<rect width="900" height="430" fill="#ffffff"/>
-<g transform="translate(185 20)">
-  <text x="0" y="245" font-family="Georgia, 'Times New Roman', serif" font-size="260" fill="#09243a">P</text>
-  <text x="175" y="300" font-family="Georgia, 'Times New Roman', serif" font-size="260" fill="#21495a">D</text>
-  <path d="M95 330 C170 235 365 240 515 130 C555 101 565 65 545 45" fill="none" stroke="#cda45b" stroke-width="10" stroke-linecap="round"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 170 92" role="img" aria-labelledby="title desc">
+<title id="title">PD monogram</title>
+<desc id="desc">A simple Patricia Dros monogram in blue with a coral accent.</desc>
+<g>
+  <text x="10" y="72" font-family="Georgia, 'Times New Roman', serif" font-size="76" font-weight="400" fill="#3d5a80">P</text>
+  <text x="57" y="77" font-family="Georgia, 'Times New Roman', serif" font-size="76" font-weight="400" fill="#3d5a80">D</text>
+  <path d="M18 79 C55 52 103 56 146 22" fill="none" stroke="#ee6c4d" stroke-width="5" stroke-linecap="round"/>
 </g>
-<text x="450" y="342" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="42" letter-spacing="10" fill="#09243a">PATRICIA DROS</text>
-<line x1="155" y1="378" x2="305" y2="378" stroke="#cda45b" stroke-width="2"/>
-<text x="450" y="385" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17" letter-spacing="8" fill="#09243a">DATA ANALYST</text>
-<line x1="595" y1="378" x2="745" y2="378" stroke="#cda45b" stroke-width="2"/>
 </svg>
